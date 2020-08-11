@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![](https://chatroom.weii.ga/room/@weii.github/svg?width=600&height=280&limit=20&theme=light&title=journey-ad@github:%20~&fontSize=13)
+
+
+![:name](https://counter.weii.ga/get/@:github?theme=rule34)
 <!--
 **gaoweiin/gaoweiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
