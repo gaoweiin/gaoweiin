@@ -2,6 +2,9 @@
 
 ![chat](https://chatroom.weii.ga/room/@weii.github/svg?width=600&height=280&limit=20&theme=light&title=WEII@github:%20~&fontSize=13)
 
+![WEII's github stats](https://github-readme-stats.vercel.app/api?username=gaoweiin&count_private=true&hide=stars,prs,issues,contribs&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaoweiin&hide=html,css)
 
 ![:name](https://counter.weii.ga/get/@:github?theme=rule34)
 <!--
